@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b78a1bad-2b67-4198-9f3d-cb476af1d604" name="Default Changelist" comment="Create clean app">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+    <list default="true" id="b78a1bad-2b67-4198-9f3d-cb476af1d604" name="Default Changelist" comment="Add missing files and prepare for heroku">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598020641451</updated>
-      <workItem from="1598020642880" duration="665000" />
+      <workItem from="1598020642880" duration="2495000" />
     </task>
     <task id="LOCAL-00001" summary="Create clean app">
       <created>1598020946955</created>
@@ -67,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598020946955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Build auth part with ui">
+      <created>1598021449808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598021449808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add missing files and prepare for heroku">
+      <created>1598021705837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598021705838</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +80,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create clean app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create clean app" />
+    <MESSAGE value="Build auth part with ui" />
+    <MESSAGE value="Add missing files and prepare for heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add missing files and prepare for heroku" />
   </component>
   <component name="WindowStateProjectService">
     <state x="557" y="365" key="Github.ShareDialog" timestamp="1598020675463">
@@ -86,17 +93,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="487" y="173" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1598020683226" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1598020951083">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1598021708747">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1598020951083" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1598021708747" />
     <state x="418" y="216" width="604" height="490" key="find.popup" timestamp="1598021304838">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="418" y="216" width="604" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1598021304838" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1598021225278">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1598022834040">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1598021225278" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1598022834040" />
   </component>
 </project>
